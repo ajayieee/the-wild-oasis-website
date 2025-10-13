@@ -1,1 +1,1 @@
-A customer facing website for 'The Wild Oasis - Hotel Management Dashboard Project.
+A customer facing website for 'The Wild Oasis - Hotel Management Dashboard' Project. (Next.js)
